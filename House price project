@@ -1,1 +1,7 @@
-
+## This project is a Tableau-based House Price Analysis Dashboard.
+- It provides interactive visualizations of housing data, including trends, distributions, and correlations.
+- Users can explore house prices based on location, size, and amenities using filters and parameters.
+- The dashboard helps in identifying key factors affecting house prices and supports data-driven insights.
+- The project uses a .twbx packaged workbook, making it easy to access both data and visualizations.
+- It’s ideal for learning Tableau, data visualization, and exploratory data analysis.
+- This project demonstrates the ability to transform raw housing data into actionable insights
